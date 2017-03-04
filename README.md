@@ -1,2 +1,3 @@
 # limpid-studio
-Site I created for Limpid Studio
+This is a site I created for Limpid Studio.
+Tools: HTML/CSS, Bootstrap 4, and JavaScript.
